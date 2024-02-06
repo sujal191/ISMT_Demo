@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>New file from dev </title>
+    <title>New file from dev branch merge to main branch</title>
 </head>
 <body>
-	<h1> This is heading 1. </h1>
-	<p>this is paragraph</p>
+	<h1> working on main branch. </h1>
+	<p>this is main branch</p>
  	<p>Ths is modified text from dev branch</p>
 </body>
 </html>
